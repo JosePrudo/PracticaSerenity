@@ -14,6 +14,9 @@ import org.junit.platform.suite.api.Suite;
 @ConfigurationParameter(key = Constants.PLUGIN_PUBLISH_QUIET_PROPERTY_NAME, value = "true")
 public class CucumberTestSuite {
 
+    /**
+     * 
+     */
     public CucumberTestSuite() {
     }
     
