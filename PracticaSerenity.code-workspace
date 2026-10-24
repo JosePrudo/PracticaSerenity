@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "git.showActionButton": true,
+        "git.confirmSync": true
+    }
+}
